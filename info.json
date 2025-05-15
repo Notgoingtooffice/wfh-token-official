@@ -1,0 +1,9 @@
+{
+  "name": "WFH Token",
+  "symbol": "WFH",
+  "address": "0x78fe7ca54637fc2dd18a9f2f97357f34c6d1899cfc152af479840f4ce28ae5c3",
+  "decimals": 18,
+  "chainId": 8453,
+  "logoURI": "https://raw.githubusercontent.com/Notgoingtooffice/wfh-token-official/main/assets/logo.png",
+  "description": "Anti-office meme token for the remote work generation. Minted to fight the cubicle."
+}
